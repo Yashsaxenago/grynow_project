@@ -1,0 +1,27 @@
+.map{
+  width: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+  height: 100vh;  
+  flex-direction: column;
+}
+.text{
+    color: orange;
+}
+hr{
+    background-color: red;
+}
+.ca{
+    background-color: lightsalmon;
+    margin-left:100px ;
+}
+.va{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:100px ;
+    background-color: lightsalmon;
+    box-sizing: content-box;
+}
